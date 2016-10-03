@@ -1,5 +1,5 @@
 
-name = "Drawing a row"
+name = "Drawing a Full Map"
 width = 256
 height = 224
 manifest = "manifest.lua"
