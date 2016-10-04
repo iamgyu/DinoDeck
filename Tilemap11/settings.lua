@@ -1,4 +1,3 @@
-
 name = "Texture Atlas Solution"
 width = 256
 height = 224
